@@ -21,17 +21,18 @@ h1 {
 }
 
 #tribute-info>ul {
-    text-align: justify;
-    padding-left: 410px;
-    width: 50%;
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
     
 }
 
-#tribute-info>p {
-    text-align: justify;
-    padding-left: 405px;
-    width: 50%;
-    
+blockquote {
+    text-align: left;
+    margin: 0 auto 50px auto;
+    font-style: italic;
+    max-width: 545px;
 }
 
 #tribute-info>h3 {
@@ -53,6 +54,7 @@ h1 {
 img {
     max-width: 100%;
     height: auto;
+    
 }
 
 footer {
